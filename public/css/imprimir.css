@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.company-info {
+    display: flex;
+    align-items: center;
+}
+
+.left-column {
+    margin-right: 20px;
+}
+
+.right-column img {
+    max-width: 100px;
+}
+
+.customer-equipment {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.customer,
+.equipment {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.problem-observations {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.signature {
+    padding: 20px;
+}
+
+.signature p {
+    margin-bottom: 10px;
+}

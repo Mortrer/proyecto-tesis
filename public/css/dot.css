@@ -1,0 +1,39 @@
+/* CSS */
+
+.dot {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+    /* Agregamos margen derecho para separar el punto del texto */
+}
+
+
+/* Estilos para el estado activo */
+
+.dot-activo {
+    background-color: #28a745;
+    /* Color verde para el estado activo */
+}
+
+
+/* Estilos para el estado inactivo */
+
+.dot-inactivo {
+    background-color: #dc3545;
+    /* Color rojo para el estado inactivo */
+}
+
+
+/* Estilos para el estado ausente */
+
+.dot-ausente {
+    background-color: #FFA500;
+    /* Color amarillo para el estado ausente */
+}
+
+.dot-gris {
+    background-color: #999999;
+    /* Color gris para el estado gris */
+}
