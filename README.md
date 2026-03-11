@@ -51,11 +51,11 @@ Cada etapa está controlada por un sistema de roles y permisos que garantiza que
 
 | Componente          | Tecnología                         |
 |---------------------|------------------------------------|
-| **Backend**         | PHP 7.3+ / 8.0+                   |
+| **Backend**         | PHP 7.3+ / 8.0+                    |
 | **Framework**       | Laravel 8.x                        |
 | **Base de Datos**   | MySQL                              |
 | **Frontend**        | Bootstrap 5, Blade Templates       |
-| **JavaScript**      | jQuery, Vue.js 3 (parcial)         |
+| **JavaScript**      | jQuery                             |
 | **Tablas de Datos** | DataTables                         |
 | **Iconos**          | Bootstrap Icons 1.10.3             |
 | **PDF**             | jsPDF, pdfmake                     |
